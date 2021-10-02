@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3979a516be4dc9a4889d763ba65d735c, type: 3}
+  m_Name: OwnWeapons
+  m_EditorClassIdentifier: 
+  defaultEquipment: {fileID: 11400000, guid: dc30bdfff02c8bb4b8edacd6da4aeb45, type: 2}
+  equipments:
+  - {fileID: 11400000, guid: dc30bdfff02c8bb4b8edacd6da4aeb45, type: 2}

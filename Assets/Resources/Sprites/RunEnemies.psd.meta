@@ -1,0 +1,1800 @@
+fileFormatVersion: 2
+guid: 2f9879043462e624fb70ce4854b5b557
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1402875753395950463
+    second: RunEnemies_0
+  - first:
+      213: 7451969609148621188
+    second: RunEnemies_1
+  - first:
+      213: 2799735859636701659
+    second: RunEnemies_2
+  - first:
+      213: 1710882797097985767
+    second: RunEnemies_3
+  - first:
+      213: -8727562732158362233
+    second: RunEnemies_4
+  - first:
+      213: 8649693035075186582
+    second: RunEnemies_5
+  - first:
+      213: 9126990476316982081
+    second: RunEnemies_6
+  - first:
+      213: -8494281094267098663
+    second: RunEnemies_7
+  - first:
+      213: 9092693739251452102
+    second: RunEnemies_8
+  - first:
+      213: 7930964848995176576
+    second: RunEnemies_9
+  - first:
+      213: 8106021371776155089
+    second: RunEnemies_10
+  - first:
+      213: 8798221420667676489
+    second: RunEnemies_11
+  - first:
+      213: 2007414068036716250
+    second: RunEnemies_12
+  - first:
+      213: -6024023558035269938
+    second: RunEnemies_13
+  - first:
+      213: 6963440798667151320
+    second: RunEnemies_14
+  - first:
+      213: 6817177323416286028
+    second: RunEnemies_15
+  - first:
+      213: -3523489822294770689
+    second: RunEnemies_16
+  - first:
+      213: 4649117657555561090
+    second: RunEnemies_17
+  - first:
+      213: -317420700942730115
+    second: RunEnemies_18
+  - first:
+      213: -4955019329580678798
+    second: RunEnemies_19
+  - first:
+      213: 8667477841574885062
+    second: RunEnemies_20
+  - first:
+      213: 649140476394206784
+    second: RunEnemies_21
+  - first:
+      213: -4602357779146910442
+    second: RunEnemies_22
+  - first:
+      213: -4776250254105677092
+    second: RunEnemies_23
+  - first:
+      213: 6223291502659993240
+    second: RunEnemies_24
+  - first:
+      213: 3680299378298958462
+    second: RunEnemies_25
+  - first:
+      213: 6249915430286602335
+    second: RunEnemies_26
+  - first:
+      213: -4320576915238851367
+    second: RunEnemies_27
+  - first:
+      213: 5712793645955950274
+    second: RunEnemies_28
+  - first:
+      213: 213683087514624935
+    second: RunEnemies_29
+  - first:
+      213: 4756724980271990348
+    second: RunEnemies_30
+  - first:
+      213: 8435121656792551042
+    second: RunEnemies_31
+  - first:
+      213: 6613287988886534272
+    second: RunEnemies_32
+  - first:
+      213: -5503892539098400958
+    second: RunEnemies_33
+  - first:
+      213: 6691007985355439290
+    second: RunEnemies_34
+  - first:
+      213: -7011630122360107901
+    second: RunEnemies_35
+  - first:
+      213: -2522579027640732506
+    second: RunEnemies_36
+  - first:
+      213: 609199862454029120
+    second: RunEnemies_37
+  - first:
+      213: -3875874241707586358
+    second: RunEnemies_38
+  - first:
+      213: -4592860653219504251
+    second: RunEnemies_39
+  - first:
+      213: 2152253848301396018
+    second: RunEnemies_40
+  - first:
+      213: 7284556585753603707
+    second: RunEnemies_41
+  - first:
+      213: -2513822822764060231
+    second: RunEnemies_42
+  - first:
+      213: -5052834231519446052
+    second: RunEnemies_43
+  - first:
+      213: -5015743837443902433
+    second: RunEnemies_44
+  - first:
+      213: -2823578242683767078
+    second: RunEnemies_45
+  - first:
+      213: 7832475695335031002
+    second: RunEnemies_46
+  - first:
+      213: -6211762975430419042
+    second: RunEnemies_47
+  - first:
+      213: 1095976874017035411
+    second: RunEnemies_48
+  - first:
+      213: -7687138236662530668
+    second: RunEnemies_49
+  - first:
+      213: -5388927460282620217
+    second: RunEnemies_50
+  - first:
+      213: 1490544135980108562
+    second: RunEnemies_51
+  - first:
+      213: -1641451662429432701
+    second: RunEnemies_52
+  - first:
+      213: -3262891783096780733
+    second: RunEnemies_53
+  - first:
+      213: -8142901307086455216
+    second: RunEnemies_54
+  - first:
+      213: 145179969414111245
+    second: RunEnemies_55
+  - first:
+      213: -5144462936417809900
+    second: RunEnemies_56
+  - first:
+      213: 6139627965908671907
+    second: RunEnemies_57
+  - first:
+      213: 7118298114384363959
+    second: RunEnemies_58
+  - first:
+      213: -8885221127641096328
+    second: RunEnemies_59
+  - first:
+      213: -4730765022258343692
+    second: RunEnemies_60
+  - first:
+      213: -2372805366492191222
+    second: RunEnemies_61
+  - first:
+      213: -18643913359244379
+    second: RunEnemies_62
+  - first:
+      213: -834052392827368088
+    second: RunEnemies_63
+  - first:
+      213: -1394385789468805843
+    second: RunEnemies_64
+  - first:
+      213: 7211942063883470346
+    second: RunEnemies_65
+  - first:
+      213: -434275935094201997
+    second: RunEnemies_66
+  - first:
+      213: 9171670700432138441
+    second: RunEnemies_67
+  - first:
+      213: -308801516439059282
+    second: RunEnemies_68
+  - first:
+      213: -5844482241890051222
+    second: RunEnemies_69
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RunEnemies_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 352
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f739c21a014087310800000000000000
+      internalID: 1402875753395950463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 353
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4816f4690e6ba6760800000000000000
+      internalID: 7451969609148621188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 354
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd981924ee8aad620800000000000000
+      internalID: 2799735859636701659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 352
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e62a5dd6d64eb710800000000000000
+      internalID: 1710882797097985767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 352
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d53ca8fe771e680800000000000000
+      internalID: -8727562732158362233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 336
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fa3d3ccf1e90870800000000000000
+      internalID: 8649693035075186582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 337
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b3f393b7599ae70800000000000000
+      internalID: 9126990476316982081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 338
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9a4e179504e1a80800000000000000
+      internalID: -8494281094267098663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 336
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8408bd7ccbf2e70800000000000000
+      internalID: 9092693739251452102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_9
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 336
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08097769282701e60800000000000000
+      internalID: 7930964848995176576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 320
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd31767d7f5e7070800000000000000
+      internalID: 8106021371776155089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 321
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947212264cf891a70800000000000000
+      internalID: 8798221420667676489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 322
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6437a8574cbdb10800000000000000
+      internalID: 2007414068036716250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 320
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec619b89d7e566ca0800000000000000
+      internalID: -6024023558035269938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 320
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d79403338c13a060800000000000000
+      internalID: 6963440798667151320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 302
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43731d18aa7b9e50800000000000000
+      internalID: 6817177323416286028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 302
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb7a64ccac0a1fc0800000000000000
+      internalID: -3523489822294770689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 304
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a6891a0ebf48040800000000000000
+      internalID: 4649117657555561090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 302
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cf3f3ed8b489bf0800000000000000
+      internalID: -317420700942730115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_19
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 301
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271462d2c2c3c3bb0800000000000000
+      internalID: -4955019329580678798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 284
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6f3a5bc21194870800000000000000
+      internalID: 8667477841574885062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 284
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046fdc0f2d5320900800000000000000
+      internalID: 649140476394206784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_22
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 284
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61551b4fbf32120c0800000000000000
+      internalID: -4602357779146910442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_23
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 284
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd279a513b957bdb0800000000000000
+      internalID: -4776250254105677092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 266
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e71c536a29d5650800000000000000
+      internalID: 6223291502659993240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_25
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 266
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72b99619cc031330800000000000000
+      internalID: 3680299378298958462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 266
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50377a68f82cb650800000000000000
+      internalID: 6249915430286602335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_27
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 266
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc6f6edf2a3a04c0800000000000000
+      internalID: -4320576915238851367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 248
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c62056ad8be74f40800000000000000
+      internalID: 5712793645955950274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_29
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 248
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a361ddc2a727f200800000000000000
+      internalID: 213683087514624935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_30
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 248
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46c657da28430240800000000000000
+      internalID: 4756724980271990348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_31
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 248
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e0356a4729f0570800000000000000
+      internalID: 8435121656792551042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 230
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08870fe136e17cb50800000000000000
+      internalID: 6613287988886534272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_33
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 230
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247fd1585ee3e93b0800000000000000
+      internalID: -5503892539098400958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_34
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 230
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcb96cef4c3bdc50800000000000000
+      internalID: 6691007985355439290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_35
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 230
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c0c4c8d8fa1be90800000000000000
+      internalID: -7011630122360107901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 210
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4bf935dbffdfcd0800000000000000
+      internalID: -2522579027640732506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 210
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b0ac61c00547800800000000000000
+      internalID: 609199862454029120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_38
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 211
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acccee499e0263ac0800000000000000
+      internalID: -3875874241707586358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_39
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 209
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f9bf5e191e240c0800000000000000
+      internalID: -4592860653219504251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_40
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 209
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230e87ec8775edd10800000000000000
+      internalID: 2152253848301396018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_41
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 190
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e63189e91f71560800000000000000
+      internalID: 7284556585753603707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_42
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 190
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1e0e4267b1d1dd0800000000000000
+      internalID: -2513822822764060231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_43
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 191
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb7959990ab0e9b0800000000000000
+      internalID: -5052834231519446052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_44
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 189
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f143dcced8f746ab0800000000000000
+      internalID: -5015743837443902433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_45
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 189
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6ff495c82a0d8d0800000000000000
+      internalID: -2823578242683767078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_46
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 172
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0435c852b82bc60800000000000000
+      internalID: 7832475695335031002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_47
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 172
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ddb843c726bc9a0800000000000000
+      internalID: -6211762975430419042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 173
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39414d10921b53f00800000000000000
+      internalID: 1095976874017035411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_49
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 171
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d3860808cc15590800000000000000
+      internalID: -7687138236662530668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 171
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6a181d60fa635b0800000000000000
+      internalID: -5388927460282620217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_51
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 152
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bc2239ef97fa410800000000000000
+      internalID: 1490544135980108562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 152
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3845be8e8646839e0800000000000000
+      internalID: -1641451662429432701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_53
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 152
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348b9f7f531e7b2d0800000000000000
+      internalID: -3262891783096780733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_54
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 152
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e3c06776a9efe80800000000000000
+      internalID: -8142901307086455216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_55
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 132
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d002e69b968c30200800000000000000
+      internalID: 145179969414111245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_56
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 133
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a47a247323b98b0800000000000000
+      internalID: -5144462936417809900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_57
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 134
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad5a091b17543550800000000000000
+      internalID: 6139627965908671907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_58
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 132
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b18631bb6649c260800000000000000
+      internalID: 7118298114384363959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_59
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 132
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f1828d57a51b480800000000000000
+      internalID: -8885221127641096328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 108
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0d274e642f85eb0800000000000000
+      internalID: -4730765022258343692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 109
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06a711471a121fd0800000000000000
+      internalID: -2372805366492191222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_62
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 110
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3cff6a573cdbff0800000000000000
+      internalID: -18643913359244379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_63
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 108
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dc57984c9dc64f0800000000000000
+      internalID: -834052392827368088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_64
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 108
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25fbd2238526ace0800000000000000
+      internalID: -1394385789468805843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_65
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 91
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06c87ab817f51460800000000000000
+      internalID: 7211942063883470346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_66
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 92
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371a532865429f9f0800000000000000
+      internalID: -434275935094201997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_67
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 93
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0ad1098e1584f70800000000000000
+      internalID: 9171670700432138441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_68
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 91
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea44c8a28aae6bbf0800000000000000
+      internalID: -308801516439059282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunEnemies_69
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 91
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b901ccd5a34eea0800000000000000
+      internalID: -5844482241890051222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

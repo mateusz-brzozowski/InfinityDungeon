@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 602791307808baa4abc3afae26057c75, type: 3}
+  m_Name: Wizzard_M
+  m_EditorClassIdentifier: 
+  name: Wizzard Male
+  icon: {fileID: 8902602265628216436, guid: ecc275e4cb0641d418cc5bfa6ad0adf9, type: 3}
+  runSprites:
+  - {fileID: 8902602265628216436, guid: ecc275e4cb0641d418cc5bfa6ad0adf9, type: 3}
+  - {fileID: 2861855363009835268, guid: ecc275e4cb0641d418cc5bfa6ad0adf9, type: 3}
+  - {fileID: 7192599230480733807, guid: ecc275e4cb0641d418cc5bfa6ad0adf9, type: 3}
+  - {fileID: -4424300748493377099, guid: ecc275e4cb0641d418cc5bfa6ad0adf9, type: 3}
+  - {fileID: 6810973084642349558, guid: ecc275e4cb0641d418cc5bfa6ad0adf9, type: 3}
+  onMoveEffect: {fileID: 6520902389268226422, guid: a21a498cb6b86e4429ef6c7709890407, type: 3}
+  dieEffect: {fileID: 0}
+  maxhealth: 2
+  armorModifier: 1
+  damageModifier: 1
+  requiredLevel: 13
+  requiredGold: 1000

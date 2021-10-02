@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 602791307808baa4abc3afae26057c75, type: 3}
+  m_Name: Lizard_M
+  m_EditorClassIdentifier: 
+  name: Lizard Male
+  icon: {fileID: 7305490789916571938, guid: ecc275e4cb0641d418cc5bfa6ad0adf9, type: 3}
+  runSprites:
+  - {fileID: 7305490789916571938, guid: ecc275e4cb0641d418cc5bfa6ad0adf9, type: 3}
+  - {fileID: 933303178881835478, guid: ecc275e4cb0641d418cc5bfa6ad0adf9, type: 3}
+  - {fileID: -9075125957270007806, guid: ecc275e4cb0641d418cc5bfa6ad0adf9, type: 3}
+  - {fileID: 4397737812864955831, guid: ecc275e4cb0641d418cc5bfa6ad0adf9, type: 3}
+  - {fileID: -3155761069584523039, guid: ecc275e4cb0641d418cc5bfa6ad0adf9, type: 3}
+  onMoveEffect: {fileID: 1600562085215862509, guid: 2a1e052ef0f04ca4682e8496383d3034, type: 3}
+  dieEffect: {fileID: 0}
+  maxhealth: 2
+  armorModifier: 0
+  damageModifier: 0
+  requiredLevel: 6
+  requiredGold: 200

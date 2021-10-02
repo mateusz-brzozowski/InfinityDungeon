@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1930463417c1a43489a99aaf986c1123, type: 3}
+  m_Name: Necromancer
+  m_EditorClassIdentifier: 
+  name: Necromancer
+  icon: {fileID: 1490544135980108562, guid: 2f9879043462e624fb70ce4854b5b557, type: 3}
+  runSprites:
+  - {fileID: 1490544135980108562, guid: 2f9879043462e624fb70ce4854b5b557, type: 3}
+  - {fileID: -1641451662429432701, guid: 2f9879043462e624fb70ce4854b5b557, type: 3}
+  - {fileID: -3262891783096780733, guid: 2f9879043462e624fb70ce4854b5b557, type: 3}
+  - {fileID: -8142901307086455216, guid: 2f9879043462e624fb70ce4854b5b557, type: 3}
+  dieEffect: {fileID: 3986667602876166645, guid: a5023a39d52bd6d49bcb90d36ff74dc3, type: 3}
+  maxhealth: 9
+  armorModifier: 6
+  damageModifier: 6
+  experience: 90
+  goldAmount: 2
+  scoreAmount: 1

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 602791307808baa4abc3afae26057c75, type: 3}
+  m_Name: Elf_M
+  m_EditorClassIdentifier: 
+  name: Elf Male
+  icon: {fileID: -7914586359189542566, guid: ecc275e4cb0641d418cc5bfa6ad0adf9, type: 3}
+  runSprites:
+  - {fileID: -7914586359189542566, guid: ecc275e4cb0641d418cc5bfa6ad0adf9, type: 3}
+  - {fileID: 3112702236248781428, guid: ecc275e4cb0641d418cc5bfa6ad0adf9, type: 3}
+  - {fileID: 115972425246325791, guid: ecc275e4cb0641d418cc5bfa6ad0adf9, type: 3}
+  - {fileID: 1808964706522467271, guid: ecc275e4cb0641d418cc5bfa6ad0adf9, type: 3}
+  - {fileID: 7649489486189614792, guid: ecc275e4cb0641d418cc5bfa6ad0adf9, type: 3}
+  onMoveEffect: {fileID: 8557356218694176725, guid: 5fffc555d7fd85e43913d3d1b6b8c275, type: 3}
+  dieEffect: {fileID: 0}
+  maxhealth: 2
+  armorModifier: 1
+  damageModifier: 0
+  requiredLevel: 10
+  requiredGold: 500

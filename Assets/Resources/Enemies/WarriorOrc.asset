@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1930463417c1a43489a99aaf986c1123, type: 3}
+  m_Name: WarriorOrc
+  m_EditorClassIdentifier: 
+  name: Warrior Orc
+  icon: {fileID: 7284556585753603707, guid: 2f9879043462e624fb70ce4854b5b557, type: 3}
+  runSprites:
+  - {fileID: 7284556585753603707, guid: 2f9879043462e624fb70ce4854b5b557, type: 3}
+  - {fileID: -2513822822764060231, guid: 2f9879043462e624fb70ce4854b5b557, type: 3}
+  - {fileID: -5052834231519446052, guid: 2f9879043462e624fb70ce4854b5b557, type: 3}
+  - {fileID: -5015743837443902433, guid: 2f9879043462e624fb70ce4854b5b557, type: 3}
+  - {fileID: -2823578242683767078, guid: 2f9879043462e624fb70ce4854b5b557, type: 3}
+  dieEffect: {fileID: 3986667602876166645, guid: a5023a39d52bd6d49bcb90d36ff74dc3, type: 3}
+  maxhealth: 6
+  armorModifier: 3
+  damageModifier: 3
+  experience: 65
+  goldAmount: 1
+  scoreAmount: 1

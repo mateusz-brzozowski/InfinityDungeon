@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 602791307808baa4abc3afae26057c75, type: 3}
+  m_Name: Knight_M
+  m_EditorClassIdentifier: 
+  name: Knight Male
+  icon: {fileID: 4769413903677429357, guid: ecc275e4cb0641d418cc5bfa6ad0adf9, type: 3}
+  runSprites:
+  - {fileID: 4769413903677429357, guid: ecc275e4cb0641d418cc5bfa6ad0adf9, type: 3}
+  - {fileID: 6440628458277568191, guid: ecc275e4cb0641d418cc5bfa6ad0adf9, type: 3}
+  - {fileID: -7424387843487759793, guid: ecc275e4cb0641d418cc5bfa6ad0adf9, type: 3}
+  - {fileID: 651816595902088185, guid: ecc275e4cb0641d418cc5bfa6ad0adf9, type: 3}
+  - {fileID: 6716731256078600817, guid: ecc275e4cb0641d418cc5bfa6ad0adf9, type: 3}
+  onMoveEffect: {fileID: 57905888890082450, guid: 327466f9c046fcc40bee70ab8f1f49b9, type: 3}
+  dieEffect: {fileID: 0}
+  maxhealth: 1
+  armorModifier: 0
+  damageModifier: 0
+  requiredLevel: 0
+  requiredGold: 0
